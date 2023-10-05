@@ -1,2 +1,3 @@
 import streamlit
-streamlit.tittle('Nuevo menu Familiar')
+
+streamlit.title('Nuevo menu Familiar')
